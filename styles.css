@@ -1,0 +1,26 @@
+/* styles.css */
+body {
+    font-family: 'Varela Round', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: white;
+    color: black;
+    padding: 20px;
+  }
+  
+ 
+
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
